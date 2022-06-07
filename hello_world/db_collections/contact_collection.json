@@ -1,0 +1,16 @@
+{
+    "id_contact" : 1,
+    "name" : "Karla Real",
+    "phone_office" : "614 987 1234",
+    "mobile" : "55 8678 9050",
+    "email" : "karla_real@jabil.com",
+    "id_customer" : 1 
+},
+{
+    "id_contact" : 2,
+    "name" : "Rodrigo Macias",
+    "phone_office" : "614 654 6070",
+    "mobile" : "656 890 1256",
+    "email" : "rodrigo_macias@jabil.com",
+    "id_customer" : 1
+}

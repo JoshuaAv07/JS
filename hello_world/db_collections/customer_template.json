@@ -1,0 +1,24 @@
+{
+    "id_customer" : null,
+    "name" : "",
+    "phone" : "",
+    "tax_id" : "",
+    "bill_to_address" : {
+        "name_bill_to" : "",
+        "street" : "",
+        "city" : "",
+        "state" : "",
+        "country" : "",
+        "zip_code" : ""
+    },
+    "ship_to_address" : {
+        "name_ship_to" : "",
+        "street" : "",
+        "city" : "",
+        "state" : "",
+        "country" : "",
+        "zip_code" : ""
+    },
+    "status" : true,
+    "created_at" : new Date()  
+}

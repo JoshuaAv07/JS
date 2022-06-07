@@ -1,0 +1,24 @@
+{
+    "id_customer" : 1,
+    "name" : "Jabil Chihuahua",
+    "phone" : "614 123 6789",
+    "tax_id" : "JBL990101W45",
+    "bill_to_address" : {
+        "name_bill_to" : "Jabil EMS Switzerland Gmbh",
+        "street" : "Alejando Dumas No. 11341",
+        "city" : "Chihuahua",
+        "state" : "Chihuahua",
+        "country" : "MX",
+        "zip_code" : "31136"
+    },
+    "ship_to_address" : {
+        "name_ship_to" : "Jabil CIRCUIT de Chihuahua",
+        "street" : "9560 Joe Rodriguez Dr",
+        "city" : "EL PASO",
+        "state" : "TX",
+        "country" : "USA",
+        "zip_code" : "79927"
+    },
+    "status" : true,
+    "created_at" : new Date()  
+}
