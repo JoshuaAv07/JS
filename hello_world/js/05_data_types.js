@@ -12,7 +12,9 @@ alert("Operation's results is: " + operation);
 var int_num = 44;
 var text_chain = "Hello, how are you?";
 var true_or_false = false;
+var false_num = "33.4";
 
-var false_num = "33";
-
-console.log(parseInt(false_num) + num1);
+console.log(typeof int_num);
+console.log(typeof text_chain);
+console.log(typeof true_or_false);
+console.log(typeof false_num);
