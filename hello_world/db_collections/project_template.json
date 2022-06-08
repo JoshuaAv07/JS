@@ -1,8 +1,9 @@
 {
-    "id_project" : 1,
+    "id_project" : null,
+    "workcell" : "",
     "name" : "",
-    "details_project" : "",
     "id_customer" : null,
+    "id_contact" : null,
     "due_date" : new Date(""),
     "status" : true,
     "created_at" : new Date()  
