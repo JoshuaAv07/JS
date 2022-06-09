@@ -1,0 +1,18 @@
+{
+    "customer_id" : 1000111,
+    "name" : "Jabil Chihuahua",
+    "created_at" : new Date("2022-06-08"),
+    "id_rep" : 1
+},
+{
+    "customer_id" : 1000056,
+    "name" : "Signify Camargo",
+    "created_at" : new Date("2022-06-08"),
+    "id_rep" : 2
+},
+{
+    "customer_id" : 1000112,
+    "name" : "Syncreon ELP",
+    "created_at" : new Date("2022-06-08"),
+    "id_rep" : 1
+}

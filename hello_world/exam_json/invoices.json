@@ -1,0 +1,27 @@
+{
+    "invoice" : "IJ100856",
+    "invoice_date" : new Date("2020-05-25"),
+    "due_date" : new Date("2020-07-09"),
+    "customer_id" : 1000111,
+    "revenew" : 9652.85,
+    "cost" : 6274.35,
+    "gross_profit" : 3378.50 
+},
+{
+    "invoice" : "IJ100965",
+    "invoice_date" : new Date("2020-05-25"),
+    "due_date" : new Date("2020-07-09"),
+    "customer_id" : 1000056,
+    "revenew" : 2413.41,
+    "cost" : 1448.05,
+    "gross_profit" : 965.36 
+},
+{
+    "invoice" : "IJ100985",
+    "invoice_date" : new Date("2020-05-26"),
+    "due_date" : new Date("2020-08-09"),
+    "customer_id" : 1000112,
+    "revenew" : 15896.74,
+    "cost" : 11127.72,
+    "gross_profit" : 4769.02
+}

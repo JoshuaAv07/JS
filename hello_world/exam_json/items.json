@@ -1,0 +1,24 @@
+{
+    "item_id" : 6000185,
+    "name" : "Relf barbados",
+    "price" : 0.25,
+    "supply_chain" : "telecom"
+},
+{
+    "item_id" : 6001786,
+    "name" : "Rsc box ncr ssco 7106",
+    "price" : 56.32,
+    "supply_chain" : "telecom"
+},
+{
+    "item_id" : 6407852,
+    "name" : "Atm pallet serie 7800",
+    "price" : 215.86,
+    "supply_chain" : "industry"
+},
+{
+    "item_id" : 6600184,
+    "name" : "Corrugated insert",
+    "price" : 0.58,
+    "supply_chain" : "aerospace"
+}

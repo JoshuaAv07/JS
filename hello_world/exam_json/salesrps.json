@@ -1,0 +1,18 @@
+{
+    "id_rep" : 1,
+    "name" : "Gerardo Montoya",
+    "comission_percentage" : "1%",
+    "created_at" : new Date("2020-12-25")
+},
+{
+    "id_rep" : 2,
+    "name" : "Marco Gutierrez",
+    "comission_percentage" : "1.25%",
+    "created_at" : new Date("2018-06-05")
+},
+{
+    "id_rep" : 3,
+    "name" : "Alejandro Guerrero",
+    "comission_percentage" : "1.50%",
+    "created_at" : new Date("2012-03-02")
+}
