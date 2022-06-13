@@ -21,3 +21,4 @@ switch(edad){
     default:
         print = "Neutral age;"
 }
+// console.log(print)
