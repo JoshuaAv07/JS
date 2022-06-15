@@ -1,24 +1,26 @@
 'use-strict'
 
-
+//switch
 
 var age = 25;
-var print = "";
+var printS = "";
 
-switch(edad){
+switch(age){
     case 18:
-        print = "You are barely above age";
+        printS = "You are barely above age";
     break;
     case 25:
-        print = "You are an adult";
+        printS = "You are an adult";
     break;
     case 40:
-        print = "40s Crisis";
+        printS = "40s Crisis";
     break;
     case 75:
-        print = "Geezer";
+        printS = "Geezer";
     break;
     default:
-        print = "Neutral age;"
+        printS = "Neutral age";
+    break;
 }
-// console.log(print)
+
+console.log(printS);
