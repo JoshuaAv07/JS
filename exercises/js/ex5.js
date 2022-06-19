@@ -9,7 +9,7 @@ var num = parseInt(prompt("Enter a number: "));
 
 for (let i = 0; i <= num; i++){
     if (num % i == 0){
-        console.log(num + " is divisible by " + i)
+        console.log(num + " is divisible by " + i);
     }
 }
 
