@@ -6,7 +6,11 @@
 
 var num = parseInt(prompt("Enter a number: "));
 console.log("--------- Exercise 7 ---------");
+
 for (let i = 1; i <= num; i++){
-    tt = i*num;
-    console.log(i + " X " + num + " = " + tt);
+    console.log("--------- TABLE " + i + " ---------");
+    for (let j = 1; j <= num; j++){
+        tt = i*j;
+        console.log(i + " X " + j + " = " + tt);
+    }
 }
