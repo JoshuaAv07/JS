@@ -2,7 +2,6 @@
 // EXERCISE #3
 /* Hacer un programa que muestre todos los numeros entre dos numeros introducidos por el usuario */
 
-
 var num1 = parseInt(prompt("Enter number 1: "));
 var num2 = parseInt(prompt("Enter a number 2: "));
 
