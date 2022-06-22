@@ -6,8 +6,10 @@
 - el resultado de Sumar, Restar, multiplicar y dividir esas dos cifras
 - se debe mostrar en el cuerpo de la pagina , en una alerta y en la consola */
 
-var num1 = parseInt(prompt("Enter number 1: "));
-var num2 = parseInt(prompt("Enter number 2: "));
+/* var num1 = parseInt(prompt("Enter number 1: "));
+var num2 = parseInt(prompt("Enter number 2: ")); */
+var num1 = parseInt("Enter number 1: ");
+var num2 = parseInt("Enter number 2: "); 
 
 while (isNaN(num1)){
     num1 = parseInt(prompt("Enter number 1: "));
