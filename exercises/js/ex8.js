@@ -23,7 +23,7 @@ var sub = num1 - num2;
 var mul = num1 * num2;
 var div = num1 / num2;
 
-console.log("--------- Exercise 2 ---------");
+console.log("--------- Exercise 8 ---------");
 console.log(num1 + " + " + num2 + " = " + add);
 console.log(num1 + " - " + num2 + " = " + sub);
 console.log(num1 + " x " + num2 + " = " + mul);
