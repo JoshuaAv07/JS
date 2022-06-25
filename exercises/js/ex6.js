@@ -6,7 +6,7 @@
 
 console.log("--------- Exercise 6 ---------");
 var num = parseInt(prompt("Enter a number: "));
-
+///Aqui te falto codigo para validar que sea un numero 
 if (num % 2 == 0){
     console.log(num + " is even");
 } else {
