@@ -5,7 +5,13 @@
     2.- Si no es valido que nos pida de nuevo el Numero */
 
 console.log("--------- Exercise 6 ---------");
+
 var num = parseInt(prompt("Enter a number: "));
+
+while (isNaN(num1)){
+    alert("IS NOT A NUMBER!, try again")
+    num = parseInt(prompt("Enter a valid number: "));
+}
 
 if (num % 2 == 0){
     console.log(num + " is even");
